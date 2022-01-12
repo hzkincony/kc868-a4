@@ -1,6 +1,6 @@
 # About
 
-kc868-a4
+KC868-a4
 
 # Installation
 
