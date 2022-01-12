@@ -1,6 +1,20 @@
 # About
 
-KC868-a4
+KC868-A4 Smart Controller for home automation
+
+hardware resource:
+
+4 channel relay output
+4 channel digital input
+433MHz RF transmit
+433MHz RF receiver
+IR sender
+IR receiver
+2 channel analog input (DC 0-5V)
+2 channel analog input (4-20mA)
+2 channel analog output (DC 0-10V)
+temperature and humidity sensor
+Buzzer
 
 # Installation
 
