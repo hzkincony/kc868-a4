@@ -1,6 +1,15 @@
-esphome:
+substitutions:
   name: kc868-a4
-  platform: ESP32
+
+esphome:
+  name: ${name}
+  name_add_mac_suffix: true
+  
+  project:
+    name: kincony.kc686-a4
+    version: "1"
+  
+esp32:
   board: esp32dev
 
 # Enable logging
