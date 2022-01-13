@@ -1,7 +1,7 @@
 # About
 
 KC868-A4 Smart Controller for home automation
-
+![image](https://www.kincony.com/images/KC868-A4/KC868-A4_ESP32_relay.jpg)
 hardware resource:  
 
 4 channel relay output  
