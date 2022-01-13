@@ -6,7 +6,7 @@ esphome:
   name_add_mac_suffix: true
   
   project:
-    name: kincony.kc686-a4
+    name: kincony.kc868-a4
     version: "1"
   
 esp32:
